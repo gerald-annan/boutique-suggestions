@@ -96,7 +96,7 @@ bottoms = [
 BoutiqueSuggestions.get_combinations(tops, bottoms)
 # => [
 #      {%{item_name: "Dress shirt", base_color: "blue"},
-#       %{item_name: "Dress trousers", base_color: "black"}},
+#       %{item_name: "Dress trousers", baseor: "black"}},
 #      {%{item_name: "Casual shirt", base_color: "black"},
 #       %{item_name: "Jeans", base_color: "blue"}}
 #    ]
